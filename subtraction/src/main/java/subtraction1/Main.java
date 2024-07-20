@@ -10,7 +10,7 @@ public class Main {
 	
 	Sub s = (Sub)context.getBean("e");
 	System.out.println(s);
-	
+	System.out.println("Main.main()");
 	
 
 	}

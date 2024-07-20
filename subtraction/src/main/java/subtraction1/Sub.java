@@ -21,7 +21,7 @@ public class Sub {
 	}
 public String	toString() {
 	
-	return name+"\t"+id;
+	return "Employee {name :"+name+"\t"+"ID :"+id+"}";
 }
 	
 }
